@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "394288885349",
+    "project_id": "stayfluence-745c3",
+    "storage_bucket": "stayfluence-745c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394288885349:android:d8a6cf0bc489574592608c",
+        "android_client_info": {
+          "package_name": "com.mycompany.stayfluenceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394288885349-td9a7tofehl23fag5urs93bhd0k4oplm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.stayfluenceapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "394288885349-p6de1968getsn5s8no5qkf0qnkeiem4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkigBhNS135t0kINNa_56IEmcH0w3I-KQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394288885349-p6de1968getsn5s8no5qkf0qnkeiem4r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "394288885349-amj92tgnb2hta9gjcl9j9q7bag8f44od.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.homeU"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
